@@ -1,0 +1,8 @@
+store:
+  order:
+    version: v1.0
+
+spring:
+  h2:
+    console:
+      enabled=true
